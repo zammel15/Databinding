@@ -1,6 +1,6 @@
 import { CvProjectPage } from './app.po';
 
-describe('cv-project App', () => {
+describe('cv-item-project App', () => {
   let page: CvProjectPage;
 
   beforeEach(() => {
